@@ -1,8 +1,11 @@
--collections
+yara-collections
 
 掃描一般主機，請用: ALLYARA.tar.gz
+
 掃描web server，請用: ALLYARA.tar.ga + WEB_BURP
+
 掃描Mobile，請用MOBILE_MALWARE
+
 
 
 https://github.com/mikesxrs/Open-Source-YARA-rules (長期收集各家yara rules的站台）
