@@ -11,7 +11,7 @@ yara-collections
 https://github.com/mikesxrs/Open-Source-YARA-rules (長期收集各家yara rules的站台）
 https://github.com/Neo23x0/signature-base/tree/master/yara (資安大神收集與分享得YARA rules，建議可以常上來收集，Included)
 https://github.com/Yara-Rules/rules (正統yara rule project收集的站台， Updated Included)
-https://github.com/SupportIntelligence/Icewater (持續Update，收集yara好站)
+https://github.com/SupportIntelligence/Icewater (持續Update，收集yara好站)<br>
 https://github.com/AlienVault-Labs/AlienVaultLabs/tree/master/malware_analysis  (No update)
 https://github.com/bwall/bamfdetect/tree/master/BAMF_Detect/modules/yara (No update)
 https://github.com/airbnb/binaryalert/tree/master/rules. (Include)
